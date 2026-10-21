@@ -1,6 +1,6 @@
-## 📚 BookBridge — Enterprise Library Management System
+## 📚 Bookwise — Enterprise Library Management System
 
-BookBridge is a web-based library management platform designed to simplify book catalog management, member administration, and borrowing operations.
+Bookwise is a web-based library management platform designed to simplify book catalog management, member administration, and borrowing operations.
 
 ### ✨ Features
 - Book catalog management
@@ -27,4 +27,4 @@ BookBridge is a web-based library management platform designed to simplify book 
 Coming soon — the deployment URL will be added here after successful deployment.
 
 ### 👩‍💻 Development
-This repository contains my BookBridge project workspace. I am customizing the application, validating its functionality, and documenting the improvements I implement.
+This repository contains my Bookwise project workspace. I am customizing the application, validating its functionality, and documenting the improvements I implement.
